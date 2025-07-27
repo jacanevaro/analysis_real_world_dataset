@@ -16,7 +16,7 @@ The optimal outcome is a model that accurately predicts the **price** of a given
 
 ---
 
-##⚙️🛠️Tools
+##⚙️Tools
 - 🐼 **Pandas**
 - #️⃣ **Numpy**
 - 📊 **Matplotlib**
@@ -38,4 +38,13 @@ The dataset includes apartment listings in the U.S. It is available from [UC Irv
 - 📏 Square footage 
 - 💸 Rent (target variable)
 
+---
+
+## 💡Key Insights
+- RMSE for linear regression was too high.
+- Random forest gave a better outcome.
+
+--- 
+
+## 🏃Run the Code
 
