@@ -47,7 +47,8 @@ The dataset includes apartment listings in the U.S. It is available from [UC Irv
 --- 
 
 ## 🏃Run the Code
-```git clone https://github.com/jacanevaro/analysis_real_world_dataset.git 
+```python: {git clone https://github.com/jacanevaro/analysis_real_world_dataset.git}
+
 
 ```
 
