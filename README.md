@@ -1,6 +1,6 @@
 # 🏠Predicting Apartment Prices Using Multiple Linear Regression 📈and Random Forest 🌳
 
-This project uses a dataset of apartment rentals from UC Irvine's Machine Learning Repository.
+This project was an assignment for my machine learning class. It uses a real-world publicly available dataset.
 
 ---
 
@@ -26,4 +26,16 @@ The optimal outcome is a model that accurately predicts the **price** of a given
 
 ##📂Dataset 
 
-The dataset includes apartment listings in the U.S. It is available from [UC Irvine's Machine Learning Repository](http://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified)..
+The dataset includes apartment listings in the U.S. It is available from [UC Irvine's Machine Learning Repository](http://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified).
+
+### Features
+- 🌎 Latitude and Longitude
+- 🛏️ Number of bedrooms 
+- 🚽 Number of bathrooms
+- 💰 Apartment fees (Y/N)
+- 🐶 Pets allowed (Y/N)
+- 📸 Photo with listing (Y/N)
+- 📏 Square footage 
+- 💸 Rent (target variable)
+
+
