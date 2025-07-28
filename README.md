@@ -4,7 +4,7 @@ This project was an assignment for my machine learning class. It uses a real-wor
 
 ---
 
-## 🔭Project Summary
+## 🔭 Project Summary
 
 A simple project designed to teach the use of pipelines 
 - Data loading and cleaning
@@ -16,7 +16,7 @@ The optimal outcome is a model that accurately predicts the **price** of a given
 
 ---
 
-## ⚙️Tools
+## ⚙️ Tools
 - 🐼 **Pandas**
 - #️⃣ **Numpy**
 - 📊 **Matplotlib**
@@ -24,7 +24,7 @@ The optimal outcome is a model that accurately predicts the **price** of a given
 
 ---
 
-## 📂Dataset 
+## 📂 Dataset 
 
 The dataset includes apartment listings in the U.S. It is available from [UC Irvine's Machine Learning Repository](http://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified).
 
@@ -40,13 +40,13 @@ The dataset includes apartment listings in the U.S. It is available from [UC Irv
 
 ---
 
-## 💡Key Insights
+## 💡 Key Insights
 - RMSE for linear regression was too high.
 - Random forest gave a better outcome.
 
 --- 
 
-## 🏃Run the Code
+## 🏃 Run the Code
 
 1. Clone this repository:
    ```bash
